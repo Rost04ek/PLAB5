@@ -1,0 +1,7 @@
+2026-10-12 19:57:33,910 | INFO | reliable_importer.utils | Task import/export started
+2026-10-12 19:57:33,911 | WARNING | reliable_importer.services | Invalid record at line 3: Task title is empty
+2026-10-12 19:57:33,911 | WARNING | reliable_importer.services | Invalid record at line 5: Invalid task ID
+2026-10-12 19:57:33,912 | WARNING | reliable_importer.services | Invalid record at line 7: Invalid priority: Urgent
+2026-10-12 19:57:33,912 | WARNING | reliable_importer.services | Invalid record at line 8: Invalid status: UnknownStatus
+2026-10-12 19:57:33,913 | INFO | reliable_importer.utils | Task import/export finished in 0.002192 s
+2026-10-12 19:57:33,913 | INFO | __main__ | Total=8, valid=4, invalid=4, exported=4

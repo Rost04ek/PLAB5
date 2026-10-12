@@ -1,0 +1,30 @@
+[
+{
+  "task_id": 1,
+  "title": "Setup database",
+  "description": "Install PostgreSQL",
+  "priority": "High",
+  "status": "Done"
+},
+{
+  "task_id": 3,
+  "title": "Write tests",
+  "description": "Unit tests for auth",
+  "priority": "Medium",
+  "status": "In Progress"
+},
+{
+  "task_id": 4,
+  "title": "Deploy app",
+  "description": "Deploy to production",
+  "priority": "Critical",
+  "status": "Review"
+},
+{
+  "task_id": 7,
+  "title": "Clean codebase",
+  "description": "Refactor legacy code",
+  "priority": "Medium",
+  "status": "To Do"
+}
+]

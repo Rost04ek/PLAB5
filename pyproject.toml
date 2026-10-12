@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reliable_importer"
+version = "0.1.0"
+description = "Lab 5 - Variant 14"
+dependencies = [
+    "PyYAML>=6.0",
+]
